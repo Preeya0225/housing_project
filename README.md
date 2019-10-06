@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Prices  
+# Ames Housing Prices  
 
 ### Table of Content 
 
